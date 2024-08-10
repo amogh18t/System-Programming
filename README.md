@@ -8,7 +8,9 @@ Includes key features like:
 - Inter-process communication: Implementing communication between processes using methods like pipes, message queues, shared memory, etc.
 - Device management: Writing device drivers, managing I/O devices.
 
-1. main.c: This is a C source file.
+1. main.c: This code is to enhance an image's contrast through histogram equalization and then detect edges using the Sobel operator, utilizing parallel processing to speed up the computation. The program is intended to work on systems with multiple processors, distributing the workload among them and combining the results at the end. Program produces two output images: 
+- histeql.pgm: The histogram-equalized grayscale image. 
+- final.pgm: The image after applying the Sobel operator, showing the edges detected.
 
 2. Demand_Paging: This directory contains a project related to demand paging, a method of managing computer memory in operating systems. The README.md file in this directory should provide more details.
 
