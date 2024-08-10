@@ -8,7 +8,7 @@ Includes key features like:
 - Inter-process communication: Implementing communication between processes using methods like pipes, message queues, shared memory, etc.
 - Device management: Writing device drivers, managing I/O devices.
 
-1. main.c: This is a C source file, but without more context, it's hard to determine its purpose.
+1. main.c: This is a C source file.
 
 2. Demand_Paging: This directory contains a project related to demand paging, a method of managing computer memory in operating systems. The README.md file in this directory should provide more details.
 
