@@ -12,12 +12,14 @@ Includes key features like:
 - histeql.pgm: The histogram-equalized grayscale image. 
 - final.pgm: The image after applying the Sobel operator, showing the edges detected.
 
-2. Demand_Paging: This directory contains a project related to demand paging, a method of managing computer memory in operating systems. The README.md file in this directory should provide more details.
+2. Demand_Paging: Demand paging, a method of managing computer memory in operating systems. The README.md file in this directory should provide more details.
 
-3. File_System: This directory contains two subdirectories, iNode_Implementation and LinkedList_Implementation, which contain implementations of a file system using iNodes and linked lists respectively.
+3. File_System: Two subdirectories, iNode_Implementation and LinkedList_Implementation, which contain implementations of a file system using iNodes and linked lists respectively.
 
-4. Job_Scheduler: This directory contains a project related to CPU scheduling, a process by which a computer system determines which process should access the CPU. The README.md and Documentation.md files in this directory should provide more details.
+4. Job_Scheduler: CPU scheduling, a process by which a computer system determines which process should access the CPU. The README.md and Documentation.md files in this directory should provide more details.
 
-5. LKM: This directory contains a project related to Loadable Kernel Modules (LKM), which are object files that contain code to extend the running kernel of an operating system.
+5. LKM: Loadable Kernel Modules (LKM), which are object files that contain code to extend the running kernel of an operating system.
 
-6. SHM_Shell: This directory likely contains a project related to shared memory and shell programming. The README.md and Documentation.md files in this directory should provide more details.
+6. SHM_Shell: Shared memory and shell programming.
+
+The README.md and Documentation.md files in each directory should provide more details.
